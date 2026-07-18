@@ -1,4 +1,4 @@
-<img width="1600" height="900" alt="05-light-technical-refined-1600x900" src="https://github.com/user-attachments/assets/7eb22e12-b347-4884-b3a8-f2d5a6d5dd27" />
+<img width="1600" height="900" alt="zerobeatlabs-05-light-technical-refined-1600x900" src="https://github.com/user-attachments/assets/7eb22e12-b347-4884-b3a8-f2d5a6d5dd27" />
 
 # ZeroBeatLabs
 
@@ -13,6 +13,9 @@ person remains accountable for final approval.
 
 We help MSPs and lean IT teams turn sanitized operational exports into
 repeatable reporting workflows.
+
+<img width="1878" height="559" alt="zerobeatlabs ticketing and server uptime report demo" src="https://github.com/user-attachments/assets/d0b6ee8a-8c71-4034-9261-c7226af98e06" />
+
 
 Our approach emphasizes:
 
