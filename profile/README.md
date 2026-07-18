@@ -31,6 +31,8 @@ Our approach emphasizes:
 
 We also build focused, mobile-first websites for local service businesses.
 
+<img width="1687" height="589" alt="zerobeatlabs local SEO and web presence" src="https://github.com/user-attachments/assets/0c55fc8d-7fb6-448c-9d77-d5395f0e4ca5" />
+
 The goal is not more marketing machinery. It is a clear, credible site that
 helps customers understand what a business does, where it works, and how to
 make contact.
