@@ -2,7 +2,7 @@
 
 # ZeroBeatLabs
 
-We build human-reviewed reporting workflows for IT teams and practical web
+We build human-reviewed workflows for IT teams and practical web
 systems for local businesses.
 
 Our systems are deliberately small, understandable, and auditable. Calculations
