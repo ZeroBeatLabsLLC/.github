@@ -7,6 +7,8 @@ Our systems are deliberately small, understandable, and auditable. Calculations
 are reconciled before narrative generation, assumptions stay visible, and a
 person remains accountable for final approval.
 
+<img width="1600" height="900" alt="05-light-technical-refined-1600x900" src="https://github.com/user-attachments/assets/7eb22e12-b347-4884-b3a8-f2d5a6d5dd27" />
+
 ## IT operations and reporting
 
 We help MSPs and lean IT teams turn sanitized operational exports into
